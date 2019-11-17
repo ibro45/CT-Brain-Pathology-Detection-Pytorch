@@ -1,3 +1,10 @@
 dataset/scans/
-
+dataset/mini_scans/
+dataset/processed/
 data_ops/\.ipynb_checkpoints/
+
+data_ops/Untitled\.ipynb
+
+dataset/cq500processed\.zip
+
+data_ops/data preprocessing\.ipynb
